@@ -21,4 +21,4 @@ Fiz esse scanner de portas em Python pra escanear portas de 1 a 1024 e mostrar o
 Se quiser dar um toque ou melhorar algo, é só mandar um pull request ou abrir uma issue. Ideias são bem-vindas!
 
 ## Quem fez
-- [euucoding] - [https://github.com/euucoding]
+- [euuCode] - [https://github.com/euuCode]
